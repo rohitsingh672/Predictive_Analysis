@@ -1,0 +1,5 @@
+.
+├── app.py                   # Main Streamlit application
+├── Chocolate Sales.csv      # Dataset file (must be present)
+├── requirements.txt         # Python dependencies
+└── README.md                # This file
